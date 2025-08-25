@@ -36,6 +36,9 @@
 **Techniques:** Machine Learning (XGBoost, PCA, K-Means), ETL, A/B Testing  
 **Other:** Salesforce, HubSpot, SEO, Dynamic Pricing  
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+...  
+
 ---
 
 ## 🌐 Let’s Connect  
