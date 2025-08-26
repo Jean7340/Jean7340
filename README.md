@@ -18,15 +18,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-| Project | Description | Tech/Methods | Repo |
-|---------|-------------|--------------|------|
-| **AI-Powered Loan Approval System** | Modeled **10k+ HELOC applications**, benchmarked ML models (~88% accuracy), built Streamlit app for explainable loan approvals. | Python, XGBoost, Random Forest, Logistic Regression, Streamlit | [🔗 Repo](your-loan-repo-link) |
-| **Employee Engagement Segmentation** | Clustered **600+ survey responses** (PCA + K-Means) into 4 motivational groups; generated personalized messaging with GPT. | Python, PCA, K-Means, Custom GPT | [🔗 Repo](your-segmentation-repo-link) |
-| **AI-Powered Policy Brief Generator** | Automated conversion of raw policy data into briefs, social posts & emails in <30min; boosted consistency to 95%. | OpenAI API, Python, OOP, Secure Key Mgmt | [🔗 Repo](your-policy-repo-link) | 
-
----
-
 ## 🛠️ Skills & Tools  
 **Languages:** Python, R, SQL, Java  
 **Analytics & Viz:** Tableau, Power BI, Excel, Google Analytics  
