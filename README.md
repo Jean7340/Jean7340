@@ -1,20 +1,7 @@
 <!-- Banner or headline -->
 # 👋 Hi, I’m Jean Liu  
 
-🎓 Master’s Student in **Marketing Analytics (STEM)** @ Simon Business School  
-📍 Rochester, NY | 📊 Aspiring Marketing/Data Analyst | 🌱 Exploring AI, Strategy & Finance  
-
----
-
-## 💼 Internships & Experience  
-- **Marketing Manager – Photon Box Technology** (Nov 2021 – May 2024)  
-  Grew customer base by **275%**, led cross-functional team of 6+, launched bilingual websites & SEO strategy.  
-
-- **Consulting Intern – Deloitte Consulting** (Dec 2019 – Jun 2020)  
-  Analyzed **1.4M+ CRM records**, built ETL pipelines, supported digital-marketing transformation for Fortune 500 client.  
-
-- **Customer Support Intern – Schneider Electric** (Sep – Nov 2019)  
-  Cleaned **5,300+ Salesforce records**, automated dashboards, supported 800+ advisors.  
+📍 Rochester, NY | 📊 Aspiring Marketing/Data Analyst | 🌱 Exploring AI, Strategy & Finance   
 
 ---
 
