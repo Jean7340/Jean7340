@@ -1,24 +1,20 @@
-<!-- Banner or headline -->
-# 👋 Hi, I’m Jean Liu  
-
-📍 Rochester, NY | 📊 Aspiring Marketing/Data Analyst | 🌱 Exploring AI, Strategy & Finance   
+# Hi there 👋 I'm Zhiying 
+🎓 M.S. in Marketing Analytics @ University of Rochester
 
 ---
 
-## 🛠️ Skills & Tools  
-**Languages:** Python, R, SQL, Java  
-**Analytics & Viz:** Tableau, Power BI, Excel, Google Analytics  
-**Techniques:** Machine Learning (XGBoost, PCA, K-Means), ETL, A/B Testing  
-**Other:** Salesforce, HubSpot, SEO, Dynamic Pricing  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&width=800&lines=Building+Data-Driven+Solutions;Analytics+%7C+Product+Strategy+%7C+AI;Turning+Insights+into+Impact)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-...  
+
+I am a Marketing Analytics graduate student with experience in data analytics, market research, and product strategy.
+
+My interests lie in leveraging data and AI to drive business decisions and build impactful products.
 
 ---
 
-## 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-liu-msma/)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Jean7340)  
+## 🛠 Analytics & Data Stack 
 
----
+### Core Skills
 
-✨ *Always curious about blending data, strategy & storytelling. Open to internships, collaborations, and research projects.*
+`SQL` • `Python` • `Snowflake` • `Tableau` • `Power BI` • `dbt` • `Airflow` • `Spark` • `AWS` • `GCP`
+
