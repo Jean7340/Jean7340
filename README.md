@@ -16,5 +16,5 @@ My interests lie in leveraging data and AI to drive business decisions and build
 
 ### Core Skills
 
-`SQL` • `Python` • `Snowflake` • `Tableau` • `Power BI` • `dbt` • `AWS`
+`SQL` • `Python` • `R` • `dbt` • `Tableau` • `Power BI` • `Machine Learning` • `A/B Testing`
 
