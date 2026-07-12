@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Zhiying 
-🎓 M.S. in Business Analytics @ University of Rochester
+🎓 M.S. in Marketing Analytics @ University of Rochester
 
 ---
 
