@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Zhiying 
+# Hi there 👋 I'm Jean
 🎓 M.S. in Marketing Analytics @ University of Rochester
 
 ---
