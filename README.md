@@ -12,7 +12,7 @@ I've looked at business problems from three angles:
 - **Operations** — grew a deep-tech media community from 8K to 30K and built a regional office from scratch
 - **Research** — built multi-factor econometric models for fixed-income research at a securities firm
 
-Now I build analytics projects around real business decisions — customer targeting, credit risk, marketing measurement.
+The common thread: using data to drive decisions people actually act on. That's what my projects below are about — customer targeting, credit risk, marketing measurement.
 
 🔍 Open to Business Analyst / Data Analyst opportunities
 
