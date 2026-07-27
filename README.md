@@ -2,6 +2,8 @@
 
 🎓 M.S. in Marketing Analytics @ University of Rochester
 
+**Business Analytics · Customer Growth · Experimentation · Decision Support**
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&width=800&lines=Building+Data-Driven+Solutions;Analytics+%7C+Product+Strategy+%7C+AI;Turning+Insights+into+Impact)](https://git.io/typing-svg)
@@ -12,7 +14,7 @@ I've looked at business problems from three angles:
 - **Operations** — grew a deep-tech media community from 8K to 30K and built a regional office from scratch
 - **Research** — built multi-factor econometric models for fixed-income research at a securities firm
 
-The common thread: using data to drive decisions people actually act on. That's what my projects below are about — customer targeting, credit risk, marketing measurement.
+Now I build analytics projects around real business decisions 👇
 
 🔍 Open to Business Analyst / Data Analyst opportunities
 
@@ -94,6 +96,10 @@ The common thread: using data to drive decisions people actually act on. That's 
 
 ## 🛠 Analytics & Data Stack
 
-### Core Skills
-
-`SQL` • `Python` • `R` • `dbt` • `Tableau` • `Power BI` • `Machine Learning` • `A/B Testing`
+| | |
+|---|---|
+| **Languages** | `Python` · `SQL` · `R` |
+| **Analytics** | `A/B Testing` · `Causal Inference` · `Customer Analytics` · `Predictive Modeling` |
+| **Machine Learning** | `scikit-learn` · `XGBoost` |
+| **Visualization** | `Tableau` · `Power BI` |
+| **Engineering** | `dbt` · `MySQL` · `Git` |
