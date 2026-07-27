@@ -78,7 +78,11 @@ Now I build analytics projects around real business decisions — customer targe
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Jean7340/new-product-launch-pricing">🥤 New-Product Launch Pricing</a></h3>
-      <p align="center">💹</p>
+      <p align="center">
+        <a href="https://github.com/Jean7340/new-product-launch-pricing">
+          <img src="assets/kiwi_pricing_thumb.png" width="95%" alt="Pricing curves"/>
+        </a>
+      </p>
       <p>Should Kiwi launch a new sparkling product — and at what price? Multinomial logit + <b>latent-class segmentation</b>, own/cross-price elasticity, joint portfolio pricing, and a <b>competitive equilibrium simulation</b> showing recommended prices hold even after the competitor re-optimizes.</p>
       <p><a href="https://github.com/Jean7340/new-product-launch-pricing">Read the full rendered report →</a></p>
       <p><code>R</code> <code>mlogit</code> <code>gmnl</code> <code>Quarto</code></p>
