@@ -97,10 +97,3 @@ Now I build analytics projects around real business decisions — customer targe
 ### Core Skills
 
 `SQL` • `Python` • `R` • `dbt` • `Tableau` • `Power BI` • `Machine Learning` • `A/B Testing`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean7340&show_icons=true&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean7340&layout=compact&hide_border=true" height="160" alt="Top languages"/>
-</p>
